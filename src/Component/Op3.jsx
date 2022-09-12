@@ -6,5 +6,5 @@ function Fruit(juice) {
     </dive>
   );
 }
-
+ 
 export default Fruit;

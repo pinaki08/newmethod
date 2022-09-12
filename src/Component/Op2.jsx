@@ -1,5 +1,4 @@
-function Newop(yo) {
-  const { carband, modelnumber, price } = yo;
+function Newop({ carband, modelnumber, price }) {
   return (
     <dive>
       car is new {carband} and model is {modelnumber} and price is {price}${" "}
